@@ -6,10 +6,10 @@ Resumos, exercícios e projetos para estudo de Java e programação orientada a 
 
 ## Conteúdo
 
-- **Exercício Pessoa**: Este exercício aborda conceitos de objetos e classes em Java. [Clique aqui para acessar](https://github.com/gbielgbr/Java/blob/main/ObjetosEclasses.java)
+- **Exercício Pessoa**: Este exercício aborda conceitos de objetos e classes em Java. [Classes e Objetos ](https://github.com/gbielgbr/Java/blob/main/ObjetosEclasses.java)
 
 ## Links Úteis para Estudo
 
-- **Oracle Java Tutorials**: Documentação oficial da Oracle com tutoriais abrangentes sobre Java. [Clique aqui para acessar](https://docs.oracle.com/javase/tutorial/)
+- **Oracle Java Tutorials**: Documentação oficial da Oracle com tutoriais abrangentes sobre Java. [Oracle Java](https://docs.oracle.com/javase/tutorial/)
 
-- **W3Schools Java Tutorial**: Tutorial prático e fácil de seguir para aprender Java. [Clique aqui para acessar](https://www.w3schools.com/java/)
+- **W3Schools Java Tutorial**: Tutorial prático e fácil de seguir para aprender Java. [Java](https://www.w3schools.com/java/)
