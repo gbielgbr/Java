@@ -7,8 +7,6 @@ Seguindo a fórmula: média_ponderada
 
 
 */
-
-
 import java.util.Scanner;
 public class MediaPonderada {
 	double num1;
